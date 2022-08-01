@@ -1,0 +1,44 @@
+:root {
+    background-color: #FAF7FD;
+    font-family: 'Macondo', cursive;
+    font-family: 'Poppins', sans-serif;
+  }
+
+#foto {
+    margin: 0;
+    text-align: center;
+    padding-top: 70px;
+    color: #BB99DD;
+    
+}
+
+.fotoimg {
+    width: 100px;
+    border-radius: 100%;
+    border: solid #BB99DD;
+}
+
+.link {
+    text-align: center;
+}
+
+.linkdentro {
+    border: solid #BB99DD 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-decoration: none;
+    color: #BB99DD;
+}
+
+.social {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.socialimg {
+    width: 25px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
